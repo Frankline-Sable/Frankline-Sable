@@ -1,7 +1,13 @@
 name: Metrics
 on:
+  # This makes it run every time you push to the main branch
+  push:
+    branches:
+      - main
+  # This keeps the daily midnight schedule
   schedule:
     - cron: "0 0 * * *"
+  # This keeps the manual button (once GitHub registers the file)
   workflow_dispatch:
 jobs:
   github-metrics:
