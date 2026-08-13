@@ -108,7 +108,8 @@
 <br>
 
 <div align="center">
-  <img width="100%" src="assets/metrics.svg" alt="Metrics" />
+  <img width="70%" src="assets/metrics.svg" alt="Metrics" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Frankline-Sable&theme=transparent&hide_border=true&title_color=D4A15A&icon_color=00B8A9&text_color=a6a6a6" alt="GitHub Streak" />
 </div>
 
 <br>
