@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/sable-banner.svg" width="100%" alt="Frankline Odero — Senior Software Engineer" />
+  <img src="assets/sable-banner2.svg" width="100%" alt="Frankline Odero — Senior Software Engineer" />
 </p>
 
 <div align="center">
