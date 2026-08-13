@@ -110,6 +110,7 @@
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Frankline-Sable&show_icons=true&hide_border=true&theme=transparent&title_color=D4A15A&icon_color=00B8A9&text_color=a6a6a6" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frankline-Sable&layout=compact&hide_border=true&theme=transparent&title_color=D4A15A&text_color=a6a6a6" alt="Top languages" />
+  <img src="metrics.svg" alt="Metrics" />
 </div>
 
 <br>
