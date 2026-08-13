@@ -1,0 +1,98 @@
+<svg width="1000" height="340" viewBox="0 0 1000 340" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B0A08"/>
+      <stop offset="100%" stop-color="#020202"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#161310"/>
+      <stop offset="100%" stop-color="#0C0A08"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#F6E7B9"/>
+      <stop offset="45%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#9C7A22"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#D4AF37" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#D4AF37" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1000" height="340" rx="16" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="999" height="339" rx="16" fill="none" stroke="#3A331F" stroke-width="1"/>
+  <rect x="0" y="0" width="1000" height="2" rx="1" fill="url(#gold)" opacity="0.8"/>
+
+  <!-- corner brackets, premium framing -->
+  <path d="M24,44 L24,24 L44,24" fill="none" stroke="#D4AF37" stroke-width="1.2" opacity="0.55"/>
+  <path d="M976,296 L976,316 L956,316" fill="none" stroke="#D4AF37" stroke-width="1.2" opacity="0.55"/>
+
+  <circle cx="125" cy="170" r="150" fill="url(#glow)"/>
+
+  <!-- phone mockup -->
+  <rect x="40" y="40" width="170" height="260" rx="24" fill="#050403" stroke="#3A331F" stroke-width="1.5"/>
+  <rect x="42.5" y="42.5" width="165" height="255" rx="21.5" fill="none" stroke="#D4AF37" stroke-width="0.6" opacity="0.35"/>
+  <rect x="50" y="52" width="150" height="236" rx="14" fill="url(#screen)"/>
+  <rect x="100" y="58" width="50" height="7" rx="3.5" fill="#050403"/>
+
+  <!-- screen 1: fintech bars -->
+  <g font-family="Consolas, Monaco, 'Courier New', monospace">
+    <text x="64" y="80" font-size="8" letter-spacing="1" fill="#A6957A">BALANCE</text>
+    <rect x="64" y="150" width="14" height="60" rx="2" fill="url(#gold)"/>
+    <rect x="84" y="120" width="14" height="90" rx="2" fill="#1F6F54"/>
+    <rect x="104" y="165" width="14" height="45" rx="2" fill="url(#gold)"/>
+    <rect x="124" y="100" width="14" height="110" rx="2" fill="#1F6F54"/>
+    <rect x="144" y="140" width="14" height="70" rx="2" fill="url(#gold)"/>
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.30;0.36;1" dur="9s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- screen 2: health signal -->
+  <g font-family="Consolas, Monaco, 'Courier New', monospace" opacity="0">
+    <text x="64" y="80" font-size="8" letter-spacing="1" fill="#A6957A">HEART RATE</text>
+    <polyline points="64,180 78,180 86,150 96,205 106,160 116,180 200,180" fill="none" stroke="#2E8B67" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="96" cy="205" r="3.5" fill="#D4AF37"/>
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.30;0.36;0.63;0.69;1" dur="9s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- screen 3: field map -->
+  <g font-family="Consolas, Monaco, 'Courier New', monospace" opacity="0">
+    <text x="64" y="80" font-size="8" letter-spacing="1" fill="#A6957A">FIELD MAP</text>
+    <line x1="72" y1="120" x2="110" y2="150" stroke="#3A331F" stroke-width="1.5"/>
+    <line x1="110" y1="150" x2="150" y2="130" stroke="#3A331F" stroke-width="1.5"/>
+    <line x1="110" y1="150" x2="130" y2="190" stroke="#3A331F" stroke-width="1.5"/>
+    <line x1="130" y1="190" x2="90" y2="205" stroke="#3A331F" stroke-width="1.5"/>
+    <circle cx="72" cy="120" r="5" fill="#D4AF37"/>
+    <circle cx="110" cy="150" r="5" fill="#2E8B67"/>
+    <circle cx="150" cy="130" r="5" fill="#D4AF37"/>
+    <circle cx="130" cy="190" r="5" fill="#2E8B67"/>
+    <circle cx="90" cy="205" r="5" fill="#D4AF37"/>
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.63;0.69;1" dur="9s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- spec sheet -->
+  <text x="260" y="68" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="12" letter-spacing="3" fill="url(#gold)">PRODUCT SPEC — FRANKLINE.EXE</text>
+  <text x="260" y="112" font-family="'Helvetica Neue', Arial, sans-serif" font-size="38" font-weight="700" fill="#F3ECDD">Frankline Odero</text>
+  <circle cx="850" cy="103" r="5" fill="#2E8B67">
+    <animate attributeName="opacity" values="1;0.35;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="862" y="108" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="11" letter-spacing="1" fill="#A6957A">SHIPPING</text>
+  <text x="260" y="138" font-family="'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#2E8B67">Senior Software Engineer — Flutter &amp; Fintech</text>
+  <line x1="260" y1="158" x2="960" y2="158" stroke="#3A331F" stroke-width="1"/>
+
+  <g font-family="Consolas, Monaco, 'Courier New', monospace" font-size="12">
+    <text x="260" y="190" letter-spacing="1" fill="#A6957A">CATEGORY</text>
+    <text x="400" y="190" font-family="'Helvetica Neue', Arial, sans-serif" fill="#F3ECDD">Mobile &#183; Full-Stack &#183; Fintech</text>
+
+    <text x="260" y="220" letter-spacing="1" fill="#A6957A">STACK</text>
+    <text x="400" y="220" font-family="'Helvetica Neue', Arial, sans-serif" fill="#F3ECDD">Flutter &#183; FastAPI &#183; Firebase</text>
+
+    <text x="260" y="250" letter-spacing="1" fill="#A6957A">SHIPPED</text>
+    <text x="400" y="250" font-family="'Helvetica Neue', Arial, sans-serif" fill="#F3ECDD">4 products in production</text>
+
+    <text x="260" y="280" letter-spacing="1" fill="#A6957A">REACH</text>
+    <text x="400" y="280" font-family="'Helvetica Neue', Arial, sans-serif" fill="#F3ECDD">100,000+ users &#183; 10+ countries</text>
+
+    <text x="260" y="310" letter-spacing="1" fill="#A6957A">BASE</text>
+    <text x="400" y="310" font-family="'Helvetica Neue', Arial, sans-serif" fill="#F3ECDD">Nairobi, Kenya</text>
+  </g>
+</svg>
