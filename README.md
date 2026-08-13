@@ -41,7 +41,8 @@ I build Flutter and full-stack systems end-to-end — architecture, backend, rel
 <br>
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Frankline-Sable&theme=zenburn" alt="GitHub Profile Summary" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Frankline-Sable&show_icons=true&hide_border=true&bg_color=1C1410&title_color=D4A15A&icon_color=00B8A9&text_color=F2E8D5" alt="GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frankline-Sable&layout=compact&hide_border=true&bg_color=1C1410&title_color=D4A15A&text_color=F2E8D5" alt="Top languages" />
 </p>
 
 <p align="center"><sub>Open to talking Flutter architecture, fintech infra, or how to sync wearable data without losing your mind.</sub></p>
