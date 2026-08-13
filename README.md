@@ -67,7 +67,7 @@
 > <br>
 > Architected an offline-first finance tracker utilizing Clean Architecture, pairing Hive for local storage with Firestore for cloud synchronization. Engineered a custom named-group regex engine capable of parsing highly unstructured SMS alerts into structured, real-time transaction data. Implemented SHA-256 checksum-verified, chunked cloud backups to securely bypass platform document-size limits, alongside optimized UI elements for dynamic recipient analytics and active filtering.
 
-> **[Smart Running](#)** ── *Wearable Tech, Data Pipelines & Compliance*
+> **[Smartrunning](#)** ── *Wearable Tech, Data Pipelines & Compliance*
 > <br>
 > Engineered robust backend data synchronization pipelines and multi-step onboarding flows utilizing BLoC and go_router. Integrated the Terra V2 API and Health package to reliably ingest and process complex biometric data from Garmin, Coros, and Suunto devices. Successfully navigated complex App Store compliance and actively managed pre-release staging builds and backend workout sync flows via Firebase App Distribution.
 
