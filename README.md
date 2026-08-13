@@ -108,7 +108,7 @@
 <br>
 
 <div align="center">
-  <img width="100%" src="metrics.svg" alt="Metrics" />
+  <img width="100%" src="assets/metrics.svg" alt="Metrics" />
 </div>
 
 <br>
