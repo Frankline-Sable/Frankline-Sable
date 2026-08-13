@@ -14,62 +14,74 @@
 <h3 align="center">Architecting High-Performance Flutter & Full-Stack Systems</h3>
 
 <p align="center">
-  I build scalable, end-to-end software—from system architecture and backend infrastructure to fluid, animation-rich frontends. With a focus on products that reach <b>100,000+ users globally</b>, my recent work heavily involves complex wearable/health data pipelines, encrypted fintech synchronization, and mentoring the next generation of engineers.
+  I engineer scalable, end-to-end software—from robust backend infrastructure to fluid, animation-rich frontends. Focused on products that serve <b>100,000+ users globally</b>, my recent expertise lies in building complex wearable health-data pipelines, highly secure fintech synchronization, and mentoring the next generation of developers.
 </p>
 
 <br>
 
-### 🛠️ Tech Arsenal
+<h2>🛠️ Technical Arsenal</h2>
 
 <details open>
   <summary><b>Mobile & Frontend Integration</b></summary>
   <br>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lottie-0F9D58?style=for-the-badge&logo=lottie&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android SDK" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Lottie-0F9D58?style=for-the-badge&logo=lottie&logoColor=white" alt="Lottie" />
 </details>
 
 <details open>
   <summary><b>Backend & Cloud Infrastructure</b></summary>
   <br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
 </details>
 
 <details open>
-  <summary><b>Architecture & Ops</b></summary>
+  <summary><b>Architecture & DevOps</b></summary>
   <br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
 </details>
 
 <br>
 
-### 🚀 Featured Engineering
+<h2>🚀 Featured Engineering</h2>
 
-> **[Pesa Radar](#)** 🛡️ *Fintech & Security*
-> An offline-first finance tracker featuring encrypted, checksum-verified cloud backups. Built with a custom regex engine capable of reliably parsing varied bank and mobile money SMS alerts into structured, real-time transaction data.
+> 🛡️ **[Pesa Radar](#)** ── *Fintech & Security*
+> <br>
+> An offline-first finance tracker featuring encrypted, checksum-verified cloud backups. Engineered a custom regex engine capable of reliably parsing highly unstructured bank and mobile money SMS alerts into real-time transaction data.
+> <br>
+> <sub>**Stack:** Flutter • Dart • Regex Engineering • Local Storage Sync</sub>
 
-> **[SmartRunning](#)** 🏃‍♂️ *Wearable Tech & Health Data*
-> A marathon training application that ingests biometric data from wearables via the Terra API (Garmin, Coros, Suunto). Translates raw health metrics into personalized training pipelines. Successfully navigated complex App Store and Play Store compliance.
+> 🏃‍♂️ **[SmartRunning](#)** ── *Wearable Tech & Health Data*
+> <br>
+> A marathon training application that ingests complex biometric data directly from wearables via the Terra API (Garmin, Coros, Suunto). Translates raw health metrics into dynamic, personalized training pipelines. 
+> <br>
+> <sub>**Stack:** Flutter • Terra API • FastAPI • Python</sub>
 
-> **[MyBlueprint](#)** 🎯 *Productivity & Scale*
-> Cross-platform habit and goal tracking application currently live on iOS and Android, serving an active user base of **30,000+**. 
+> 🎯 **[MyBlueprint](#)** ── *Productivity & Scale*
+> <br>
+> Cross-platform habit and goal tracking application currently live on iOS and Android. Architected for scalability, currently serving an active user base of **30,000+**.
+> <br>
+> <sub>**Stack:** Flutter • BLoC Architecture • Firebase</sub>
 
-> **[Farmbetter](#)** 🌱 *Agri-Tech & Global Reach*
-> Engineered a resilient platform utilizing Flutter, Angular, and GraphQL to connect and empower **100,000+ farmers** spanning 10+ countries.
+> 🌱 **[Farmbetter](#)** ── *Agri-Tech & Global Reach*
+> <br>
+> Engineered a resilient, highly accessible platform connecting and empowering **100,000+ farmers** spanning 10+ countries, with a heavy focus on performance in low-bandwidth environments.
+> <br>
+> <sub>**Stack:** Flutter • Angular • Node.js • GraphQL</sub>
 
 <br>
 
-### 💼 Experience Profile
+<h2>💼 Experience Profile</h2>
 
 | Role | Organization | Timeline |
 | :--- | :--- | :--- |
@@ -88,5 +100,5 @@
 <br>
 
 <p align="center">
-  <sub><b>Let's connect!</b> Open to talking Flutter architecture, fluid dashboard animations, fintech infrastructure, or how to sync wearable data without losing your mind. ☕</sub>
+  <sub><b>Let's connect!</b> Open to talking Flutter architecture, fluid dashboard animations, fintech infra, or how to sync wearable data without losing your mind. ☕</sub>
 </p>
