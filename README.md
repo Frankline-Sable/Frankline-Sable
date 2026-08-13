@@ -14,7 +14,7 @@
 <h3 align="center">Architecting High-Performance Flutter & Full-Stack Systems</h3>
 
 <p align="center">
-  I build scalable, end-to-end software—from system architecture and backend infrastructure to fluid, animation-rich frontend. With a focus on products that reach <b>100,000+ users globally</b>, my recent work heavily involves complex wearable/health data pipelines, encrypted fintech synchronization, and mentoring the next generation of engineers.
+  I build scalable, end-to-end software from system architecture and backend infrastructure to fluid, animation-rich frontend. With a focus on products that reach <b>100,000+ users globally</b>, my recent work heavily involves complex wearable/health data pipelines, encrypted fintech synchronization, and mentoring the next generation of engineers.
 </p>
 
 <br>
