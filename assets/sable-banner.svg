@@ -18,7 +18,7 @@
       <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
     </linearGradient>
     <clipPath id="nameClip">
-      <text x="400" y="104" font-family="'Helvetica Neue', Arial, sans-serif" font-size="40" font-weight="700">Frankline Odero</text>
+      <text x="400" y="104" font-family="'Helvetica Neue', Arial, sans-serif" font-size="40" font-weight="700">Frankline Sable</text>
     </clipPath>
     <filter id="softGlow" x="-200%" y="-200%" width="500%" height="500%">
       <feGaussianBlur stdDeviation="3.2" result="blur"/>
@@ -119,7 +119,7 @@
   <g>
     <text x="400" y="60" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="11" letter-spacing="3" fill="url(#brassTop)">SOFTWARE ENGINEER — ARCHITECTURE SHEET</text>
 
-    <text x="400" y="104" font-family="'Helvetica Neue', Arial, sans-serif" font-size="40" font-weight="700" fill="#EDE6D6">Frankline Odero</text>
+    <text x="400" y="104" font-family="'Helvetica Neue', Arial, sans-serif" font-size="40" font-weight="700" fill="#EDE6D6">Frankline Sable</text>
     <rect x="330" y="60" width="70" height="60" fill="url(#shine)" clip-path="url(#nameClip)" transform="skewX(-20)">
       <animate attributeName="x" values="330;330;850;850" keyTimes="0;0.15;0.5;1" calcMode="spline" keySplines="0.6 0 0.4 1;0.6 0 0.4 1;0 0 1 1" dur="7s" repeatCount="indefinite"/>
     </rect>

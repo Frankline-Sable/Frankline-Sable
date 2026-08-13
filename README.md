@@ -22,33 +22,51 @@
 ### 🛠️ Tech Arsenal
 
 <details open>
-  <summary><b>📱 Mobile & Frontend Integration</b></summary>
+  <summary><b>📱 Mobile & Frontend Engineering</b></summary>
   <br>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android SDK" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Lottie-0F9D58?style=for-the-badge&logo=lottie&logoColor=white" alt="Lottie" />
+  <img src="https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-2C2255?style=for-the-badge&logo=databricks&logoColor=white" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/State_Management-FFCA28?style=for-the-badge&logo=redux&logoColor=black" alt="State Management" />
+  <img src="https://img.shields.io/badge/Offline_First-43B02A?style=for-the-badge&logo=sqlite&logoColor=white" alt="Offline-First Sync" />
+  <img src="https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=material-design&logoColor=white" alt="Material Design" />
+  <img src="https://img.shields.io/badge/Hardware_&_IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Hardware & IoT Integration" />
 </details>
 
 <details open>
-  <summary><b>☁️ Backend & Cloud Infrastructure</b></summary>
+  <summary><b>☁️ Backend & Data Engineering</b></summary>
   <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
 </details>
 
 <details open>
-  <summary><b>⚙️ Architecture & Ops</b></summary>
+  <summary><b>⚙️ DevOps, Architecture & Leadership</b></summary>
   <br>
+  <img src="https://img.shields.io/badge/System_Design-2C2255?style=for-the-badge&logo=databricks&logoColor=white" alt="System Design" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/CI%2FCD_Pipelines-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD Pipelines" />
+  <img src="https://img.shields.io/badge/Release_Management-4CAF50?style=for-the-badge&logo=google-play&logoColor=white" alt="Release Management" />
+  <img src="https://img.shields.io/badge/Agile_%26_Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Agile & Jira" />
+  <img src="https://img.shields.io/badge/Testing_%26_QA-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Testing & QA" />
+</details>
+
+<details open>
+  <summary><b>⚙️ Architecture, Ops & Technical Leadership</b></summary>
+  <br>
+  <img src="https://img.shields.io/badge/System_Design-2C2255?style=for-the-badge&logo=databricks&logoColor=white" alt="System Design" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/CI%2FCD_Pipelines-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Release_Management-4CAF50?style=for-the-badge&logo=google-play&logoColor=white" alt="Release Management" />
+  <img src="https://img.shields.io/badge/Agile_%26_Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Testing_%26_QA-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Unit & Integration Testing" />
 </details>
 
 <br>
