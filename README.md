@@ -1,72 +1,104 @@
-<div align="center">
+<p align="center">
   <img src="assets/sable-banner.svg" width="100%" alt="Frankline Odero — Senior Software Engineer" />
-  <br><br>
-  <code>Nairobi, Kenya</code> &nbsp; ⬩ &nbsp; <code><a href="mailto:franklineodero@gmail.com" style="color: inherit; text-decoration: none;">franklineodero@gmail.com</a></code> &nbsp; ⬩ &nbsp; <code><a href="https://frankline-sable.github.io/" style="color: inherit; text-decoration: none;">Portfolio</a></code>
+</p>
+
+<div align="center">
+  <a href="mailto:franklineodero@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/frankline-sable/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://frankline-sable.github.io/"><img src="https://img.shields.io/badge/Portfolio-25292E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.youtube.com/channel/UCN_d-ax6_9zPWgSuRUYn-QA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </div>
 
 <br>
 
-### ❯ The Blueprint
-I don't just write code; I engineer systems that live in the real world. Whether I'm building encrypted financial infrastructure, designing fluid product animations in After Effects to integrate via Lottie, or normalizing chaotic biometric data off wearables, I own the entire pipeline. 
+<h3 align="center">Architecting High-Performance Flutter & Full-Stack Systems</h3>
 
-When I'm not architecting full-stack systems or running code reviews for my team, I'm usually bridging the gap between software and the physical world—tinkering with microcomputing infrastructure, DIY robotics, and custom hardware. 
-
-### ❯ Technical Arsenal
-**[ User Interface & Experience ]**
-<kbd>Flutter</kbd> <kbd>Dart</kbd> <kbd>React</kbd> <kbd>Angular</kbd> <kbd>Lottie</kbd> <kbd>Adobe After Effects</kbd>
-
-**[ Core Infrastructure & APIs ]**
-<kbd>FastAPI</kbd> <kbd>Python</kbd> <kbd>Node.js</kbd> <kbd>GraphQL</kbd>
-
-**[ Data, Hardware & Ops ]**
-<kbd>Terra API</kbd> <kbd>PostgreSQL</kbd> <kbd>Firebase</kbd> <kbd>Docker</kbd> <kbd>Microcontrollers</kbd> <kbd>CI/CD</kbd>
+<p align="center">
+  I engineer scalable, end-to-end software—from robust backend infrastructure to fluid, animation-rich frontends. Focused on products that serve <b>100,000+ users globally</b>, my recent expertise lies in building complex wearable health-data pipelines, highly secure fintech synchronization, and mentoring the next generation of developers.
+</p>
 
 <br>
 
-### ❯ Engineering Case Studies
+<h2>🛠️ Technical Arsenal</h2>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b><a href="#">Pesa Radar</a> ── Fintech & Security</b><br>
-      <i>Architecture:</i> Offline-first mobile client + Cloud Backup.<br>
-      <i>Challenge:</i> Safely extracting transaction data without direct bank APIs.<br>
-      <i>Execution:</i> Engineered a custom regex engine capable of parsing highly unstructured banking and mobile money SMS alerts locally, transforming them into real-time, checksum-verified financial data.
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="#">Smart Running</a> ── Wearable Health Tech</b><br>
-      <i>Architecture:</i> Mobile Client + Biometric API Sync.<br>
-      <i>Challenge:</i> Normalizing complex telemetry from diverse hardware vendors.<br>
-      <i>Execution:</i> Integrated the Terra API to pull raw health metrics from Garmin, Suunto, and Coros devices, feeding the data into a personalized marathon training algorithm. Successfully navigated strict App Store compliance.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b><a href="#">Farmbetter</a> ── Agritech Scale</b><br>
-      <i>Stack:</i> Flutter + Angular + GraphQL.<br>
-      <i>Impact:</i> Built a resilient, accessible platform scaling to <b>100,000+ farmers</b> across 10+ countries, focusing heavily on performance in low-bandwidth environments.
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="#">MyBlueprint</a> ── Consumer Productivity</b><br>
-      <i>Stack:</i> Flutter (BLoC) + Backend Sync.<br>
-      <i>Impact:</i> Cross-platform habit and goal tracker currently live on iOS and Android, serving an active and growing user base of <b>30,000+</b> people.
-    </td>
-  </tr>
-</table>
+<details open>
+  <summary><b>Mobile & Frontend Integration</b></summary>
+  <br>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android SDK" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Lottie-0F9D58?style=for-the-badge&logo=lottie&logoColor=white" alt="Lottie" />
+</details>
+
+<details open>
+  <summary><b>Backend & Cloud Infrastructure</b></summary>
+  <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+</details>
+
+<details open>
+  <summary><b>Architecture & DevOps</b></summary>
+  <br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+</details>
 
 <br>
 
-### ❯ Career Timeline
-`2022 — Present` &nbsp;&nbsp;<b>Senior Full-Stack Engineer</b> &nbsp;&nbsp;@ ITalanta / Elewa<br>
-`2021 — 2022` &nbsp;&nbsp;&nbsp;&nbsp;<b>Full-Stack Engineer</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@ Savanna Dot Net<br>
-`2020 — 2021` &nbsp;&nbsp;&nbsp;&nbsp;<b>Full-Stack Engineer</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@ Techxers Kenya<br>
-`2019 — 2022` &nbsp;&nbsp;&nbsp;&nbsp;<b>Co-Founder & Lead Dev</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@ Creators Galaxy Inc<br>
+<h2>🚀 Featured Engineering</h2>
+
+> 🛡️ **[Pesa Radar](#)** ── *Fintech & Security*
+> <br>
+> An offline-first finance tracker featuring encrypted, checksum-verified cloud backups. Engineered a custom regex engine capable of reliably parsing highly unstructured bank and mobile money SMS alerts into real-time transaction data.
+> <br>
+> <sub>**Stack:** Flutter • Dart • Regex Engineering • Local Storage Sync</sub>
+
+> 🏃‍♂️ **[SmartRunning](#)** ── *Wearable Tech & Health Data*
+> <br>
+> A marathon training application that ingests complex biometric data directly from wearables via the Terra API (Garmin, Coros, Suunto). Translates raw health metrics into dynamic, personalized training pipelines. 
+> <br>
+> <sub>**Stack:** Flutter • Terra API • FastAPI • Python</sub>
+
+> 🎯 **[MyBlueprint](#)** ── *Productivity & Scale*
+> <br>
+> Cross-platform habit and goal tracking application currently live on iOS and Android. Architected for scalability, currently serving an active user base of **30,000+**.
+> <br>
+> <sub>**Stack:** Flutter • BLoC Architecture • Firebase</sub>
+
+> 🌱 **[Farmbetter](#)** ── *Agri-Tech & Global Reach*
+> <br>
+> Engineered a resilient, highly accessible platform connecting and empowering **100,000+ farmers** spanning 10+ countries, with a heavy focus on performance in low-bandwidth environments.
+> <br>
+> <sub>**Stack:** Flutter • Angular • Node.js • GraphQL</sub>
+
+<br>
+
+<h2>💼 Experience Profile</h2>
+
+| Role | Organization | Timeline |
+| :--- | :--- | :--- |
+| **Senior Full-Stack Engineer** | ITalanta / Elewa | 2022 — Present |
+| **Full-Stack Engineer** | Savanna Dot Net | 2021 — 2022 |
+| **Full-Stack Engineer** | Techxers Kenya | 2020 — 2021 |
+| **Co-Founder & Lead Dev** | Creators Galaxy Inc | 2019 — 2022 |
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Frankline-Sable&show_icons=true&hide_border=true&bg_color=00000000&title_color=D4A15A&icon_color=00B8A9&text_color=F2E8D5" alt="GitHub stats" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frankline-Sable&layout=compact&hide_border=true&bg_color=00000000&title_color=D4A15A&text_color=F2E8D5" alt="Top languages" height="140"/>
-  <br>
-  <sub><i>Open to discussing complex Flutter state management, fintech infra, Lottie animations, or DIY hardware and robotics.</i></sub>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Frankline-Sable&show_icons=true&hide_border=true&bg_color=1C1410&title_color=D4A15A&icon_color=00B8A9&text_color=F2E8D5" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frankline-Sable&layout=compact&hide_border=true&bg_color=1C1410&title_color=D4A15A&text_color=F2E8D5" alt="Top languages" />
 </div>
+
+<br>
+
+<p align="center">
+  <sub><b>Let's connect!</b> Open to talking Flutter architecture, fluid dashboard animations, fintech infra, or how to sync wearable data without losing your mind. ☕</sub>
+</p>
