@@ -151,7 +151,7 @@
       <animate attributeName="opacity" values="0;1" dur="0.55s" begin="0.81s" calcMode="spline" keySplines="0.16 1 0.3 1" fill="freeze"/>
       <line x1="400" y1="258" x2="960" y2="258" stroke="#3C4A52" stroke-width="0.6"/>
       <text x="414" y="248" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="11" letter-spacing="1" fill="#8FA0A6">SHIPPED</text>
-      <text x="534" y="249" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#EDE6D6">5+ products live &#183; 100,000+ users &#183; 10+ countries</text>
+      <text x="534" y="249" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#EDE6D6">4+ products live &#183; 100,000+ users &#183; 10+ countries</text>
     </g>
     <g opacity="0">
       <animate attributeName="opacity" values="0;1" dur="0.55s" begin="0.94s" calcMode="spline" keySplines="0.16 1 0.3 1" fill="freeze"/>
