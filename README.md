@@ -8,7 +8,9 @@
 <p align="center">
   <a href="https://frankline-sablegithubio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0E3654?style=flat&logo=googlechrome&logoColor=white" alt="Engineering portfolio" /></a>
   <a href="https://www.linkedin.com/in/frankline-sable/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://frankline-sable.github.io/"><img src="https://img.shields.io/badge/Creative_Portfolio-4C6478?style=flat&logo=githubpages&logoColor=white" alt="Original portfolio" /></a>
+<a href="https://medium.com/@franklineodero">
+  <img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" alt="Medium Articles" />
+</a>
   <a href="https://www.youtube.com/channel/UCN_d-ax6_9zPWgSuRUYn-QA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
 
