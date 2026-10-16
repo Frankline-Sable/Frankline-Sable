@@ -101,14 +101,18 @@ Contributed to a cross-platform habit, goal, and roadmap application available o
   <img width="70%" src="https://streak-stats.demolab.com?user=Frankline-Sable&theme=transparent&hide_border=true&title_color=D4A15A&icon_color=00B8A9&text_color=a6a6a6" alt="GitHub contribution streak" />
 </p>
 
-### ✍️ Beyond the code
 
-I write about engineering decisions, architecture, practical lessons, and things I've learned while building software. You can find my writing and projects through my [portfolio](https://frankline-sablegithubio.vercel.app/).
+### ✍️ Beyond the Code
 
-When I'm not coding, I'm usually exploring a new tool, tinkering with hardware, or playing *Civilization* or *Age of Empires*. 🐎
+I enjoy sharing what I learn beyond writing code. On [Medium](https://medium.com/@franklineodero), I write about software engineering, system architecture, technical challenges, and practical lessons from building real-world applications.
+
+You can also explore my projects, professional experience, and the technologies I work with through my [portfolio](https://frankline-sablegithubio.vercel.app/).
+
+When I'm not coding, I'm usually exploring a new tool, tinkering with hardware, or playing strategy games likes *[Sid Mier Civilization](https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/)* or *[Age of Empires](https://store.steampowered.com/app/1017900/Age_of_Empires_Definitive_Edition/)*. 🐎
 
 <p align="center">
   <a href="https://www.linkedin.com/in/frankline-sable/">LinkedIn</a> ·
+  <a href="https://medium.com/@franklineodero">Medium</a> ·
   <a href="https://frankline-sablegithubio.vercel.app/">Portfolio</a> ·
   <a href="https://github.com/Frankline-Sable">GitHub</a>
 </p>
