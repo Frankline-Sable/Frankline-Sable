@@ -110,7 +110,7 @@ I enjoy sharing what I learn beyond writing code. On [Medium](https://medium.com
 
 You can also explore my projects, professional experience, and the technologies I work with through my [portfolio](https://frankline-sablegithubio.vercel.app/).
 
-When I'm not coding, I'm usually exploring a new tool, tinkering with hardware, or playing strategy games likes *[Sid Mier Civilization](https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/)* or *[Age of Empires](https://store.steampowered.com/app/1017900/Age_of_Empires_Definitive_Edition/)*. 🐎
+When I'm not coding, I'm usually exploring a new tool, tinkering with hardware, or playing strategy games likes *[🌍 Sid Mier Civilization](https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/)* or *[🐎 Age of Empires](https://store.steampowered.com/app/1017900/Age_of_Empires_Definitive_Edition/)*. 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/frankline-sable/">LinkedIn</a> ·
